@@ -13,6 +13,10 @@ h1 {
 	margin: 0 0 5px;
 }
 
+h1:hover {
+	color: rgb(111,127,122);
+}
+
 h2 {
 	font-size: 2em;
 	color: rgb(111,127,122);
