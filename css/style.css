@@ -13,7 +13,7 @@ h1 {
 	margin: 0 0 5px;
 }
 
-h1 a:hover {
+a:hover {
 	color: rgb(111,127,122);
 
 }
