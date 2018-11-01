@@ -13,6 +13,14 @@ h1 {
 	margin: 0 0 5px;
 }
 
+h1 .text {
+	transition: color 0.5 ease
+}
+
+h1 .text: hover {
+	color: rgb(111,127,122);
+}
+
 h2 {
 	font-size: 2em;
 	color: rgb(111,127,122);
